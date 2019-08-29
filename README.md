@@ -43,7 +43,25 @@ C4.5基于最大增益率（Gain Ratio）选择分裂属性。
 
 当分子为0（IV=0）时，表示该属性只有1个取值，此时增益率为0。
 
+# 1.3. 算法逻辑
 
+
+# 1.4. 程序实现
+
+
+# 1.5. 结果
+
+## 1.5.1 预测结果
+
+## 1.5.2 决策树模型绘制
+
+每一节点：划分属性名称、样本编号、预测值（样本标签最多的值）
+
+- ID3 
+ 
+![image](image/ID3_DecisionTreeClassifier.PNG)
+
+- C4.5 
 
 ![image](image/C4.5_DecisionTreeClassifier.PNG)
 
