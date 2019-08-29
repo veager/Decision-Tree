@@ -45,7 +45,7 @@ C4.5基于最大增益率（Gain Ratio）选择分裂属性。
 
 
 
-
+![image](image/C4.5_DecisionTreeClassifier.PNG)
 
 
 
